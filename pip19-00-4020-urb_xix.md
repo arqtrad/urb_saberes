@@ -1,12 +1,14 @@
 ---
-title           : "Saberes portugueses no urbanismo do Brasil no século XIX"
-subtitle        : |
-  Ciclo de oficinas « Paisagens de
-  influência portuguesa: Equipamentos e espaço público »,
-  coordenado por Antonieta Reis Leite, Catarina Marado
-  e Sidh Mendiratta
-author          : "Pedro Paulo Palazzo"
-lang            : "pt"
+title: |
+  Saberes portugueses no urbanismo do Brasil no século XIX
+author: "Pedro Paulo Palazzo"
+institute: |
+  Investigador visitante no CES, professor da Faculdade de
+  Arquitetura e Urbanismo da Universidade de Brasília
+date: |
+  Ciclo de oficinas « Paisagens de influência portuguesa.
+  Equipamentos e espaço público », coordenado por Antonieta
+  Reis Leite, Catarina Marado e Sidh Mendiratta
 abstract: |
   O processo de urbanização e as formas urbanas vigentes no
   Brasil ao longo do século XIX têm recebido menor atenção
@@ -44,9 +46,55 @@ abstract: |
   assim melhor sintetizar uma tradição feita de elementos
   vernáculos e eruditos herdados do pombalismo e das
   instituições urbanas da cidade liberal do século XIX.
+lang        : "pt-PT"
+aspectratio : "169"
+titlegraphic:
+logo        :
 ---
 
-### Nota biográfica
+Antecedentes
+============
+
+* * * * * * * * *
+
+![Plano de Lisboa de Carlos Mardel]()
+
+::: notes
+
+Todos conhecem este plano.
+
+:::
+
+* * * * * * * * *
+
+![Felipe Sturm. Barcelos, 1762]()
+
+* * * * * * * * *
+
+![José Custódio de Sá e Faria. Demonstração da praça de N. Sr.ª dos Prazeres do Rio Iguatemi, 1765--1770]()
+
+* * * * * * * * *
+
+![João Horta. Vila Real de Santo António, 1774]()
+
+* * * * * * * * *
+
+:::::: {.columns}
+::: {.column width="50%"}
+:::
+::: {.column width="50%"}
+:::
+::::::
+
+
+Obrigado pela atenção
+---------------------
+
+palazzo@unb.br
+
+
+Nota biográfica
+---------------
 
 Professor de teoria, história e crítica na Faculdade e no
 Programa de Pós-graduação em Arquitetura e Urbanismo da

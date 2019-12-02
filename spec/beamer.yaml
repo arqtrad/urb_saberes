@@ -1,0 +1,7 @@
+to         : "beamer"
+standalone : true
+output-file: "_entrega/$filename$.pdf"
+file-scope : true
+toc        : true
+default-image-extension: ".jpg"
+fail-if-warnings       : false
