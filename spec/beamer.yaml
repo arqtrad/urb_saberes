@@ -1,0 +1,17 @@
+to         : "beamer"
+standalone : true
+output-file: "_entrega/palazzo-pip19-00-6020-urb_xix.pdf"
+file-scope : true
+toc        : true
+default-image-extension: ".jpg"
+fail-if-warnings       : false
+variables:
+  aspectratio : 169
+  logo        :
+  titlegraphic:
+  theme       :
+  colortheme  :
+  fonttheme   :
+  innertheme  :
+  outertheme  :
+  navigation  : "empty"

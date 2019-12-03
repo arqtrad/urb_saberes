@@ -1,6 +1,12 @@
-_book
 _entrega
 _recebido
+_book
+
+## Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
 
 ## Core latex/pdflatex auxiliary files:
 *.aux
