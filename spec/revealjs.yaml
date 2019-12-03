@@ -1,6 +1,6 @@
-to           : "docs/revealjs"
+to           : "revealjs"
 standalone   : true
-output-file  : "docs/pip19.html"
+# output-file  : "docs/pip19.html"
 slide-level  : 2
 file-scope   : true
 filters:
@@ -12,7 +12,7 @@ resource-path:
 default-image-extension: ".jpg"
 fail-if-warnings       : true
 variables:
-  revealjs-url  :
+  revealjs-url  : "reveal.js"
   viewDistance  : 3 # this is the default.
   width         : 1280
   height        : 720  # equivalent to 16 x 9.

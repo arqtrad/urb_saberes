@@ -1,7 +1,8 @@
 ---
 title: |
   Saberes portugueses no urbanismo do Brasil no século XIX
-author: "Pedro Paulo Palazzo"
+author: |
+  Pedro Paulo Palazzo
 institute: |
   Investigador visitante no CES, professor da Faculdade de
   Arquitetura e Urbanismo da Universidade de Brasília
@@ -56,16 +57,17 @@ description :
 lang        : "pt-PT"
 bibliography: "biblio.bib"
 csl         : "https://raw.githubusercontent.com/citation-style-language/styles/master/chicago-fullnote-bibliography-with-ibid.csl"
+verticalSeparator: "* * * * * * * * *"
 ---
 
-Antecedentes
-============
+De onde partimos
+================
 
 * * * * * * * * *
 
 ![Planta topográfica da cidade de Lisboa arruinada também
 segundo o novo alinhamento dos architectos Eugénio dos
-Santos Carvalho e Carlos Mardel, 1758. Edição fac-similar
+Santos Carvalho e Carlos Mardel, 1756. Edição fac-similar
 por João Pedro Ribeiro, 1949 @silva:1950plantas, pr.
 2](https://upload.wikimedia.org/wikipedia/commons/5/5a/Pombaline_Baixa_Lisbon_map_1756.jpg)
 
@@ -80,17 +82,67 @@ quarteirão renascentista, e retícula pombalina
 
 ![Felipe Sturm. Barcelos, 1762]()
 
+::: notes
+Prática pombalina de desconsiderar tecido existente e
+proceder à sua completa retificação.
+:::
+
 * * * * * * * * *
 
 ![José Custódio de Sá e Faria. Demonstração da praça de N. Sr.ª dos Prazeres do Rio Iguatemi, 1765--1770]()
+
+::: notes
+Precursora de Corumbá, na margem oposta (hoje paraguaia).
+:::
 
 * * * * * * * * *
 
 ![João Horta. Vila Real de Santo António, 1774]()
 
+::: notes
+Paradigma pombalino retorna ao "reino".
+:::
+
+* * * * * * * * *
+
+![Manoel Ribeiro Guimarães. Plano de Vila Boa capital da
+Capitania geral de Goyaz, 1782, provavelmente baseado em
+conceito do governador Luís da Cunha Menezes]()
+
+::: notes
+Paradigma do "passeio" ou avenida arborizada.
+O mesmo governador que, em MG, concebe a nova casa de Câmara
+e Cadeia de Ouro Preto.
+:::
+
+* * * * * * * * *
+
+![Jaguarão, 1815]()
+
+::: notes
+Ponta de lança para a campanha da Cisplatina.
+:::
+
 
 Colonização
 ===========
+
+* * * * * * * * *
+
+![Nova Friburgo, 1820]()
+
+* * * * * * * * *
+
+![São Leopoldo]()
+
+* * * * * * * * *
+
+![Pelotas, 1815, plano de ampliação por Eduard Kretschmer em
+1835]()
+
+* * * * * * * * *
+
+![Petrópolis, 1846]()
 
 * * * * * * * * *
 
@@ -100,9 +152,11 @@ Cidades « novas » no Brasil imperial
 
 * * * * * * * * *
 
-![Plano urbanístico de Teresina, 1850]()
+![João Isidoro da Silva França e José dos Santos e Silva,
+Plano urbanístico de Teresina, 1852]()
 
 ::: notes
+Profissionais portugueses.
 Concomitante ao processo de aprovação da nova
 Lei de Terras.
 Importância da propriedade consolidada do solo
@@ -110,9 +164,15 @@ Importância da propriedade consolidada do solo
 praticidade [@brazesilva:2012planejamento13, 220],
 seja como oportunismo para lucrar com a retrocessão
 de uma antiga sesmaria ao estado.
+Iniciativa predominantemente privada e municipal de
+construção e relocação da vila do Poti
+[@clero:1844, 441].
+Artesãos portugueses.
 :::
 
-![Manaus; confrontar com Sturm]()
+* * * * * * * * *
+
+![Manaus, 1856; confrontar com Sturm]()
 
 * * * * * * * * *
 
@@ -125,30 +185,56 @@ Aracaju: ruas de 60 palmos + quarteirões de 55 braças
 [@nogueira:2013analise, 158]
 :::
 
+* * * * * * * * *
+
 ![Medidas da Vila Real de Santo António?]()
 
-![Maceió]()
+* * * * * * * * *
+
+![Maceió, 1858]()
+
+* * * * * * * * *
+
+![Corumbá, anterior a 1865]()
 
 
 Avenidas e freguesias
 =====================
 
-![[@ferreira:1892carta, 209]()
+* * * * * * * * *
+
+![Plano de Avenidas de Lisboa]()
+
+* * * * * * * * *
+
+![Circunvalação de Lisboa, 1885
+@pires:1885planta](http://purl.pt/3647/3/cc-979-a_JPG/cc-979-a_JPG_24-C-R0150/cc-979-a_0001_1_p24-C-R0150.jpg)
+
+* * * * * * * * *
+
+![Circunvalação de Lourenço Marques]()
+
+* * * * * * * * *
+
+![Ilhas visíveis na Carta topográfica do Porto de 1892
+@ferreira:1892carta, 209]()
+
+* * * * * * * * *
 
 ![Rio de Janeiro: cortiços]()
 
 * * * * * * * * *
 
-:::::: {.columns}
-::: {.column width="50%"}
-:::
-::: {.column width="50%"}
-:::
-::::::
+![Traçado urbano da Vila de Mestre d'Armas,
+Goiás, antes e depois da reformulação executada c. 1891]()
+
+* * * * * * * * *
+
+![Freguesia de Santana, São Paulo, anterior a 1897]()
 
 
 Obrigado pela atenção
----------------------
+=====================
 
 palazzo@unb.br
 
@@ -169,3 +255,7 @@ Actualmente investiga a arquitetura e o urbanismo do Brasil
 no século XIX, com ênfase na consolidação de tradições
 vernáculas e eruditas e nas trocas culturais continuadas com
 Portugal.
+
+
+Fontes e referências bibliográficas
+-----------------------------------
