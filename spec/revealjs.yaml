@@ -1,0 +1,10 @@
+to           : "revealjs"
+standalone   : true
+slide-level  : 2
+file-scope   : true
+filters:
+- pandoc-citeproc
+toc          : true
+resource-path: ".:fig"
+default-image-extension: ".jpg"
+fail-if-warnings       : true
