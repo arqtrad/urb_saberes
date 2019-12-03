@@ -46,10 +46,19 @@ abstract: |
   assim melhor sintetizar uma tradição feita de elementos
   vernáculos e eruditos herdados do pombalismo e das
   instituições urbanas da cidade liberal do século XIX.
+keywords:
+- "Urbanização: saberes e práticas"
+- "Brasil"
+- "Portugal"
+- "Século XIX"
+subject     :
+description :
 lang        : "pt-PT"
 aspectratio : "169"
 titlegraphic:
 logo        :
+bibliography: "biblio.bib"
+csl         : "https://raw.githubusercontent.com/citation-style-language/styles/master/chicago-fullnote-bibliography-with-ibid.csl"
 ---
 
 Antecedentes
@@ -57,12 +66,17 @@ Antecedentes
 
 * * * * * * * * *
 
-![Plano de Lisboa de Carlos Mardel]()
+![Planta topográfica da cidade de Lisboa arruinada também
+segundo o novo alinhamento dos architectos Eugénio dos
+Santos Carvalho e Carlos Mardel, 1758. Edição fac-similar
+por João Pedro Ribeiro, 1949 @silva:1950plantas, pr.
+2](https://upload.wikimedia.org/wikipedia/commons/5/5a/Pombaline_Baixa_Lisbon_map_1756.jpg)
 
 ::: notes
-
 Todos conhecem este plano.
-
+Apontar três padrões urbanísticos: aldeia--rua,
+quarteirão renascentista, e retícula pombalina
+[@teixeira:2012forma].
 :::
 
 * * * * * * * * *
@@ -76,6 +90,55 @@ Todos conhecem este plano.
 * * * * * * * * *
 
 ![João Horta. Vila Real de Santo António, 1774]()
+
+
+Colonização
+===========
+
+* * * * * * * * *
+
+
+Cidades « novas » no Brasil imperial
+====================================
+
+* * * * * * * * *
+
+![Plano urbanístico de Teresina, 1850]()
+
+::: notes
+Concomitante ao processo de aprovação da nova
+Lei de Terras.
+Importância da propriedade consolidada do solo
+(Francisco da Cunha Castello Branco) seja pela
+praticidade [@brazesilva:2012planejamento13, 220],
+seja como oportunismo para lucrar com a retrocessão
+de uma antiga sesmaria ao estado.
+:::
+
+![Manaus; confrontar com Sturm]()
+
+* * * * * * * * *
+
+![Aracaju. Esquerda: arraial das Olarias em 1856; direita:
+implantação do projeto de Sebastião Basílio Pirro em 1857
+@silva:1857planta](https://upload.wikimedia.org/wikipedia/commons/2/28/Cart525838.jpg)
+
+::: notes
+Aracaju: ruas de 60 palmos + quarteirões de 55 braças
+[@nogueira:2013analise, 158]
+:::
+
+![Medidas da Vila Real de Santo António?]()
+
+![Maceió]()
+
+
+Avenidas e freguesias
+=====================
+
+![[@ferreira:1892carta, 209]()
+
+![Rio de Janeiro: cortiços]()
 
 * * * * * * * * *
 
