@@ -1,10 +1,19 @@
-to           : "revealjs"
+to           : "docs/revealjs"
 standalone   : true
+output-file  : "docs/pip19.html"
 slide-level  : 2
 file-scope   : true
 filters:
 - pandoc-citeproc
 toc          : true
-resource-path: ".:fig"
+resource-path:
+- .
+- fig
 default-image-extension: ".jpg"
 fail-if-warnings       : true
+variables:
+  revealjs-url  :
+  viewDistance  : 3 # this is the default.
+  width         : 1280
+  height        : 720  # equivalent to 16 x 9.
+  theme         : "black"

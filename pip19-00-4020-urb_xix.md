@@ -54,9 +54,6 @@ keywords:
 subject     :
 description :
 lang        : "pt-PT"
-aspectratio : "169"
-titlegraphic:
-logo        :
 bibliography: "biblio.bib"
 csl         : "https://raw.githubusercontent.com/citation-style-language/styles/master/chicago-fullnote-bibliography-with-ibid.csl"
 ---
