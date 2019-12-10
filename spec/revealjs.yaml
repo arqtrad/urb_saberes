@@ -13,7 +13,7 @@ default-image-extension: ".jpg"
 fail-if-warnings       : true
 variables:
   revealjs-url  : "reveal.js"
-  viewDistance  : 3 # this is the default.
-  width         : 1280
-  height        : 720  # equivalent to 16 x 9.
+  viewDistance  : 15 # this is the default.
+  width         : 1024
+  height        : 576  # equivalent to 16 x 9.
   theme         : "black"
