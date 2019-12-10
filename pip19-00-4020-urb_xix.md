@@ -66,10 +66,17 @@ De onde partimos
 ![Planta topográfica da cidade de Lisboa arruinada também
 segundo o novo alinhamento dos architectos Eugénio dos
 Santos Carvalho e Carlos Mardel, 1756. Edição fac-similar
-por João Pedro Ribeiro, 1949 [@silva:1950plantas, pr.
-2]](https://upload.wikimedia.org/wikipedia/commons/5/5a/Pombaline_Baixa_Lisbon_map_1756.jpg)
+por João Pedro Ribeiro, 1949 [@silva:1950plantas, pr. 2]
+](https://upload.wikimedia.org/wikipedia/commons/5/5a/Pombaline_Baixa_Lisbon_map_1756.jpg)
 
 ::: notes
+Pesquisa em andamento: relações entre Portugal e o Brasil
+após a independência.
+Tese: Arte de fazer cidades no Brasil continua a se valer
+dos saberes portugueses, legados (pombalino, vilas de
+fundação, engenheiros militares).
+2 momentos: persistência do sistema pombalino e « novas »
+urbanizações; bônus: ilhas e cortiços.
 Todos conhecem este plano.
 Apontar três padrões urbanísticos: aldeia--rua,
 quarteirão renascentista, e retícula pombalina
@@ -85,7 +92,7 @@ Brasileiro](https://upload.wikimedia.org/wikipedia/commons/e/ec/Sturm_Barcelos_1
 
 ::: notes
 Prática pombalina de desconsiderar tecido existente e
-proceder à sua completa retificação.
+proceder à sua completa retificação (não foi bem assim).
 Reencontraremos esta planta no processo de emancipação da
 província do Amazonas, após a independência.
 :::
@@ -104,7 +111,7 @@ província do Amazonas, após a independência.
    -
    -![João Horta. Vila Real de Santo António, 1774]()
    -
-   -::: notes
+   -::: note
    -Paradigma pombalino retorna ao "reino".
    -:::
    -
