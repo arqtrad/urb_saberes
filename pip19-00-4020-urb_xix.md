@@ -61,22 +61,24 @@ verticalSeparator: "* * * * * * * * *"
 De onde partimos
 ================
 
+::: notes
+Pesquisa em andamento: relações entre Portugal e o Brasil
+após a independência. Tese: Arte de fazer cidades no Brasil
+continua a se valer dos saberes portugueses, legados
+(pombalino, vilas de fundação, engenheiros militares). 2
+momentos: persistência do sistema pombalino e « novas »
+urbanizações; bônus: ilhas e cortiços.
+:::
+
 * * * * * * * * *
 
 ![Planta topográfica da cidade de Lisboa arruinada também
 segundo o novo alinhamento dos architectos Eugénio dos
 Santos Carvalho e Carlos Mardel, 1756. Edição fac-similar
 por João Pedro Ribeiro, 1949 [@silva:1950plantas, pr. 2]
-](https://upload.wikimedia.org/wikipedia/commons/5/5a/Pombaline_Baixa_Lisbon_map_1756.jpg)
+](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Pombaline_Baixa_Lisbon_map_1756.jpg/1024px-Pombaline_Baixa_Lisbon_map_1756.jpg)
 
 ::: notes
-Pesquisa em andamento: relações entre Portugal e o Brasil
-após a independência.
-Tese: Arte de fazer cidades no Brasil continua a se valer
-dos saberes portugueses, legados (pombalino, vilas de
-fundação, engenheiros militares).
-2 momentos: persistência do sistema pombalino e « novas »
-urbanizações; bônus: ilhas e cortiços.
 Todos conhecem este plano.
 Apontar três padrões urbanísticos: aldeia--rua,
 quarteirão renascentista, e retícula pombalina
@@ -121,7 +123,8 @@ província do Amazonas, após a independência.
 ![Luís da Cunha Meneses. Planta de Villa Boa Capital da
 Capitania g.al de Goyás, 1782, copiada por Manoel
 Ribeiro Guimarães [@meneses:1782planta]. Arquivo Histórico
-Ultramarino](https://upload.wikimedia.org/wikipedia/commons/3/3e/Vila_Boa_de_Goiás_1782_Lu%C3%ADs_da_Cunha_Meneses_GO_01b.jpg)
+Ultramarino
+](https://upload.wikimedia.org/wikipedia/commons/3/3e/Vila_Boa_de_Goiás_1782_Lu%C3%ADs_da_Cunha_Meneses_GO_01b.jpg)
 
 ::: notes
 Paradigma do "passeio" ou avenida arborizada.
@@ -140,6 +143,7 @@ Lisboa](https://upload.wikimedia.org/wikipedia/commons/7/79/Pallière_Niterói_1
 ::: notes
 Plano de aparência pombalina, extrema regularidade. Foi
 realizado por um profissional militar porém não técnico, o
+juiz de fora José Clemente Pereira, o
 que evidencia a difusão desse corpo de conhecimentos (mas
 base é do engenheiro militar Armand Pallière).
 :::
@@ -156,6 +160,8 @@ Biblioteca Nacional
 ::: notes
 Realidade da implantação da vila não condiz com a rigidez do
 plano desenhado.
+Bellegarde, Koeler e de Lamare eram oficiais do Imperial
+corpo de engenheiros, como outros que veremos a seguir.
 :::
 
 <!--
@@ -219,15 +225,23 @@ Cidades « novas » no Brasil imperial
    -![Maceió, 1839]()
    -->
 
+::: notes
+Teresina, Manaus, Aracaju:
+Contexto da Lei de Terras; interesse comercial e de
+comunicações preponderante; sobre ou ao lado de povoações
+existentes --- sem intenção "desbravadora".
+:::
+
 * * * * * * * * *
 
-![Traçado urbanístico de João Isidoro da Silva França e José
-dos Santos e Silva para Teresina, 1855. Secretaria Municipal
-de Planejamento,
-2014](http://semplan.35.193.186.134.xip.io/wp-content/uploads/sites/39/2014/09/Figura-1-e1409919376162.jpg)
+![Traçado urbanístico de João Isidoro da Silva França,
+executado por José dos Santos e Silva para Teresina, 1855.
+Secretaria Municipal de Planejamento, 2014
+](http://semplan.35.193.186.134.xip.io/wp-content/uploads/sites/39/2014/09/Figura-1-e1409919376162.jpg)
 
 ::: notes
-Profissionais portugueses.
+João Isidoro da Silva França e José dos Santos e Silva:
+profissionais portugueses.
 Concomitante ao processo de aprovação da nova
 Lei de Terras.
 Importância da propriedade consolidada do solo
@@ -245,8 +259,9 @@ Artesãos portugueses.
 
 ![Bento de Figueiredo Tenreiro Aranha. Cópia da planta de
 Barcelos de Filipe Sturm, início do século XIX?
-[@aranha:villa]. Biblioteca Nacional
-(Brasil)](http://objdigital.bn.br/acervo_digital/div_cartografia/cart544137/cart544137.jpg)
+[@aranha:villa]. Biblioteca Nacional (Brasil)
+](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Barcelos_Tenreiro_Aranha_ca._1800_Cart544137.jpg/880px-Barcelos_Tenreiro_Aranha_ca._1800_Cart544137.jpg)
+
 
 ::: notes
 Não é simples cópia mas correção, representando a vila tal
@@ -271,7 +286,7 @@ Comparar com a planta de Barcelos, copiada pelo pai de J.B.
 ![João Miguel Ribas. Carta cadastral da cidade e arrabaldes
 de Manaos, 1892--1896 [@ribas:1892carta]. Biblioteca
 Nacional (Brasil)
-](http://objdigital.bn.br/objdigital2/acervo_digital/div_cartografia/cart164960/cart164960.jpg)
+](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cidade_e_arrabaldes_de_Manaus_Ribas_1892_Cart164960.jpg/576px-Cidade_e_arrabaldes_de_Manaus_Ribas_1892_Cart164960.jpg)
 
 ::: notes
 Relativa regularização do traçado sem eliminar urbanização
@@ -289,6 +304,8 @@ do projeto de Sebastião Basílio Pirro em 1857
 ::: notes
 Aracaju: ruas de 60 palmos + quarteirões de 55 braças
 [@nogueira:2013analise, 158]
+Sebastião Pirro e F. Pereira da Silva eram oficiais do
+Imperial corpo de engenharia, assim como vários outros.
 :::
 
 
@@ -345,9 +362,9 @@ Preenchimentos da malha urbana
 * * * * * * * * *
 
 ![Augusto Gerado Telles Ferreira. Carta topográfica do
-Porto, 1892 [@ferreira:1892carta, 292]. Arquivo Histórico
+Porto, 1892 [@ferreira:1892carta, 255]. Arquivo Histórico
 Municipal
-](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Carta_topográfica_da_cidade_do_Porto_1892.pdf/page292-1024px-Carta_topográfica_da_cidade_do_Porto_1892.pdf.jpg)
+](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Carta_topográfica_da_cidade_do_Porto_1892.pdf/page255-1024px-Carta_topográfica_da_cidade_do_Porto_1892.pdf.jpg)
 
 * * * * * * * * *
 
