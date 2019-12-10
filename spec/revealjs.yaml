@@ -5,7 +5,7 @@ slide-level  : 2
 file-scope   : true
 filters:
 - pandoc-citeproc
-toc          : true
+toc          : false
 resource-path:
 - .
 - fig

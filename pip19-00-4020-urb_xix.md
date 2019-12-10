@@ -1,15 +1,13 @@
 ---
-title: |
-  Saberes portugueses no urbanismo do Brasil no século XIX
-author: |
-  Pedro Paulo Palazzo
+title    : "Saberes portugueses no urbanismo do Brasil no século XIX"
+author   : "Pedro Paulo Palazzo"
 institute: |
   Investigador visitante no CES, professor da Faculdade de
   Arquitetura e Urbanismo da Universidade de Brasília
 date: |
   Ciclo de oficinas « Paisagens de influência portuguesa.
   Equipamentos e espaço público », coordenado por Antonieta
-  Reis Leite, Catarina Marado e Sidh Mendiratta
+  Reis Leite, Catarina Marado e Sidh Mendiratta, 2019
 abstract: |
   O processo de urbanização e as formas urbanas vigentes no
   Brasil ao longo do século XIX têm recebido menor atenção
@@ -68,8 +66,8 @@ De onde partimos
 ![Planta topográfica da cidade de Lisboa arruinada também
 segundo o novo alinhamento dos architectos Eugénio dos
 Santos Carvalho e Carlos Mardel, 1756. Edição fac-similar
-por João Pedro Ribeiro, 1949 @silva:1950plantas, pr.
-2](https://upload.wikimedia.org/wikipedia/commons/5/5a/Pombaline_Baixa_Lisbon_map_1756.jpg)
+por João Pedro Ribeiro, 1949 [@silva:1950plantas, pr.
+2]](https://upload.wikimedia.org/wikipedia/commons/5/5a/Pombaline_Baixa_Lisbon_map_1756.jpg)
 
 ::: notes
 Todos conhecem este plano.
@@ -80,34 +78,43 @@ quarteirão renascentista, e retícula pombalina
 
 * * * * * * * * *
 
-![Felipe Sturm. Barcelos, 1762]()
+![Filipe Sturm. Planta da nova Villa de Barcellos (Capitania
+do Rio Negro, atual estado do Amazonas), 1762
+[@sturm:1762planta]. Arquivo Histórico do Exército
+Brasileiro](https://upload.wikimedia.org/wikipedia/commons/e/ec/Sturm_Barcelos_1762_AM_02-1364.jpg)
 
 ::: notes
 Prática pombalina de desconsiderar tecido existente e
 proceder à sua completa retificação.
+Reencontraremos esta planta no processo de emancipação da
+província do Amazonas, após a independência.
 :::
 
+<!--
+   -* * * * * * * * *
+   -
+   -![José Custódio de Sá e Faria. Demonstração da praça de N.
+   -Sr.ª dos Prazeres do Rio Iguatemi, 1765--1770]()
+   -
+   -::: notes
+   -Precursora de Corumbá, na margem oposta (hoje paraguaia).
+   -:::
+   -
+   -* * * * * * * * *
+   -
+   -![João Horta. Vila Real de Santo António, 1774]()
+   -
+   -::: notes
+   -Paradigma pombalino retorna ao "reino".
+   -:::
+   -
+   -->
 * * * * * * * * *
 
-![José Custódio de Sá e Faria. Demonstração da praça de N. Sr.ª dos Prazeres do Rio Iguatemi, 1765--1770]()
-
-::: notes
-Precursora de Corumbá, na margem oposta (hoje paraguaia).
-:::
-
-* * * * * * * * *
-
-![João Horta. Vila Real de Santo António, 1774]()
-
-::: notes
-Paradigma pombalino retorna ao "reino".
-:::
-
-* * * * * * * * *
-
-![Manoel Ribeiro Guimarães. Plano de Vila Boa capital da
-Capitania geral de Goyaz, 1782, provavelmente baseado em
-conceito do governador Luís da Cunha Menezes]()
+![Luís da Cunha Meneses. Planta de Villa Boa Capital da
+Capitania g.al de Goyás, 1782, copiada por Manoel
+Ribeiro Guimarães [@meneses:1782planta]. Arquivo Histórico
+Ultramarino](https://upload.wikimedia.org/wikipedia/commons/3/3e/Vila_Boa_de_Goiás_1782_Lu%C3%ADs_da_Cunha_Meneses_GO_01b.jpg)
 
 ::: notes
 Paradigma do "passeio" ou avenida arborizada.
@@ -117,43 +124,100 @@ e Cadeia de Ouro Preto.
 
 * * * * * * * * *
 
-![Jaguarão, 1815]()
+![José Clemente Pereira sobre levantamento de Arnaud Julien
+Pallière. Projeto de urbanização da Vila real da Praia
+Grande, atual Niterói, 1819 [@pereira:1819projecto].
+Sociedade de Geografia de
+Lisboa](https://upload.wikimedia.org/wikipedia/commons/7/79/Pallière_Niterói_1819_RJ37.jpg)
 
 ::: notes
-Ponta de lança para a campanha da Cisplatina.
+Plano de aparência pombalina, extrema regularidade. Foi
+realizado por um profissional militar porém não técnico, o
+que evidencia a difusão desse corpo de conhecimentos (mas
+base é do engenheiro militar Armand Pallière).
 :::
 
+* * * * * * * * *
 
-Colonização
-===========
+![Vicente da Costa e Almeida, Pedro Bellegarde, Júlio
+Frederico Koeler e Joaquim Raiumundo de Lamare. Cidade de
+Niterói, planta de 1833 demonstrando a ocupação do projeto
+urbanístico de 1816--1820 [@pereira:1819projecto].
+Biblioteca Nacional
+(Brasil)](http://objdigital.bn.br/objdigital2/acervo_digital/div_cartografia/cart173947/cart173947.jpg)
+
+::: notes
+Realidade da implantação da vila não condiz com a rigidez do
+plano desenhado.
+:::
+
+<!--
+   -![Planta de abastecimento hídrico da cidade de Niterói, c.
+   -1892 [@planta:1892]](http://objdigital.bn.br/objdigital2/acervo_digital/div_cartografia/cart543235/cart543235.jpg)
+   -->
 
 * * * * * * * * *
 
-![Nova Friburgo, 1820]()
+![José María Manso, Niterói e Rio de Janeiro em 1850
+[@pereira:1819projecto]. Biblioteca Nacional
+(Brasil)](http://objdigital.bn.br/objdigital2/acervo_digital/div_cartografia/cart164963/cart164963.jpg)
 
-* * * * * * * * *
+::: notes
+Semelhança da disposição radial de Niterói com o centro do
+Rio.
+:::
 
-![São Leopoldo]()
+<!--
+   -* * * * * * * * *
+   -
+   -![Jaguarão, 1815]()
+   -
+   -::: notes
+   -Ponta de lança para a campanha da Cisplatina.
+   -:::
+   -->
 
-* * * * * * * * *
 
-![Pelotas, 1815, plano de ampliação por Eduard Kretschmer em
-1835]()
-
-* * * * * * * * *
-
-![Petrópolis, 1846]()
-
-* * * * * * * * *
-
+<!--
+   -Colonização
+   -===========
+   -
+   -* * * * * * * * *
+   -
+   -![Nova Friburgo, 1820]()
+   -
+   -* * * * * * * * *
+   -
+   -![São Leopoldo]()
+   -
+   -* * * * * * * * *
+   -
+   -![Pelotas, 1815, plano de ampliação por Eduard Kretschmer em
+   -1835]()
+   -
+   -* * * * * * * * *
+   -
+   -![Petrópolis, 1846]()
+   -
+   -* * * * * * * * *
+   -
+   -->
 
 Cidades « novas » no Brasil imperial
 ====================================
 
+<!--
+   -* * * * * * * * *
+   -
+   -![Maceió, 1839]()
+   -->
+
 * * * * * * * * *
 
-![João Isidoro da Silva França e José dos Santos e Silva,
-Plano urbanístico de Teresina, 1852]()
+![Traçado urbanístico de João Isidoro da Silva França e José
+dos Santos e Silva para Teresina, 1855. Secretaria Municipal
+de Planejamento,
+2014](http://semplan.35.193.186.134.xip.io/wp-content/uploads/sites/39/2014/09/Figura-1-e1409919376162.jpg)
 
 ::: notes
 Profissionais portugueses.
@@ -172,65 +236,128 @@ Artesãos portugueses.
 
 * * * * * * * * *
 
-![Manaus, 1856; confrontar com Sturm]()
+![Bento de Figueiredo Tenreiro Aranha. Cópia da planta de
+Barcelos de Filipe Sturm, início do século XIX?
+[@aranha:villa]. Biblioteca Nacional
+(Brasil)](http://objdigital.bn.br/acervo_digital/div_cartografia/cart544137/cart544137.jpg)
+
+::: notes
+Não é simples cópia mas correção, representando a vila tal
+como efetivamente ocupada no início do século XIX.
+:::
 
 * * * * * * * * *
 
-![Aracaju. Esquerda: arraial das Olarias em 1856; direita:
-implantação do projeto de Sebastião Basílio Pirro em 1857
-@silva:1857planta](https://upload.wikimedia.org/wikipedia/commons/2/28/Cart525838.jpg)
+![João Baptista de Figueiredo Tenreiro Aranha. Manaus A.D.
+1852, reprodução manual de 1897
+[@tenreiroaranha:1897planta]. Biblioteca Nacional
+(Brasil)](http://objdigital.bn.br/acervo_digital/div_cartografia/cart544139/cart544139.jpg)
+
+::: notes
+Província do Amazonas reinstituída após a extinção da
+Capitania do Rio Negro na presidência de J.B.F.T.A.
+Comparar com a planta de Barcelos, copiada pelo pai de J.B.
+:::
+
+* * * * * * * * *
+
+![João Miguel Ribas. Carta cadastral da cidade e arrabaldes
+de Manaos, 1892--1896 [@ribas:1892carta]. Biblioteca
+Nacional (Brasil)
+](http://objdigital.bn.br/objdigital2/acervo_digital/div_cartografia/cart164960/cart164960.jpg)
+
+::: notes
+Relativa regularização do traçado sem eliminar urbanização
+preexistente corresponde à realidade de Barcelos.
+:::
+
+* * * * * * * * *
+
+![Francisco Pereira da Silva. Planta da cidade de Aracaju.
+Esquerda: arraial das Olarias em 1856; direita: implantação
+do projeto de Sebastião Basílio Pirro em 1857
+[@silva:1857planta]
+](https://upload.wikimedia.org/wikipedia/commons/2/28/Cart525838.jpg)
 
 ::: notes
 Aracaju: ruas de 60 palmos + quarteirões de 55 braças
 [@nogueira:2013analise, 158]
 :::
 
-* * * * * * * * *
 
-![Medidas da Vila Real de Santo António?]()
-
-* * * * * * * * *
-
-![Maceió, 1858]()
+Expansões urbanas: Avenidas e freguesias
+========================================
 
 * * * * * * * * *
 
-![Corumbá, anterior a 1865]()
-
-
-Avenidas e freguesias
-=====================
-
-* * * * * * * * *
-
-![Plano de Avenidas de Lisboa]()
+![Carta topográfica da cidade de Lisboa, de Filipe Folque,
+1871, com sobreposição dos planos de melhoramentos de
+Ressano Garcia e outros, transcritos por Miguel Carlos
+Correia Pais, 1882 [@pais:1882carta]. Biblioteca Nacional
+(Portugal)
+](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Carta_topográfica_Lisboa_Folque_e_Pais_Cc-399-a_0001_1_p24-C-R0150.jpg/1280px-Carta_topográfica_Lisboa_Folque_e_Pais_Cc-399-a_0001_1_p24-C-R0150.jpg)
 
 * * * * * * * * *
 
-![Circunvalação de Lisboa, 1885
-@pires:1885planta](http://purl.pt/3647/3/cc-979-a_JPG/cc-979-a_JPG_24-C-R0150/cc-979-a_0001_1_p24-C-R0150.jpg)
+![Caldeira Pires. Planta de Lisboa e seus arredores, 1885
+[@pires:1885planta]. Biblioteca Nacional (Portugal)
+](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Lisboa_e_seus_arredores_1885_Cc-979-a_0001_1_p24-C-R0150.jpg/1280px-Lisboa_e_seus_arredores_1885_Cc-979-a_0001_1_p24-C-R0150.jpg)
+
+::: notes
+Nesta planta e na de Lourenço Marques, a seguir, observa-se
+o uso de vias como elemento de definição jurídica ou
+espacial dos limites da cidade, o que não ocorre no
+Brasil, onde a previsão é de expansão indefinida.
+:::
 
 * * * * * * * * *
 
-![Circunvalação de Lourenço Marques]()
+![Planta de Maputo em 1925 [@caminhosdeferrodelourencomarques:1925planta]. Biblioteca Nacional (Portugal)
+](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Planta_de_Lourenço_Marques_1925_Cc-180-r_0001_t24-C-R0150.jpg/1280px-Planta_de_Lourenço_Marques_1925_Cc-180-r_0001_t24-C-R0150.jpg)
 
 * * * * * * * * *
 
-![Ilhas visíveis na Carta topográfica do Porto de 1892
-@ferreira:1892carta, 209]()
+![Marcos Leschaud. Planta de Curitiba em 1894.
+Reconstituição de 1927 [@leschaud:1894planta]. [Arquivo
+Nacional (Brasil)
+](https://www.flickr.com/photos/arquivonacionalbrasil/35797708495)
+](https://live.staticflickr.com/4218/35797708495_b03c9ce05e_c_d.jpg)
+
+::: notes
+Observar que, à diferença dos exemplos portugueses, não
+existe delimitação do perímetro por meio de vias. À
+semelhança destes, no entanto, a expansão urbana se dá pela
+justaposição de novos traçados, com reduzida concordância
+com o núcleo urbano original.
+:::
+
+
+Preenchimentos da malha urbana
+==============================
 
 * * * * * * * * *
 
-![Rio de Janeiro: cortiços]()
+![Augusto Gerado Telles Ferreira. Carta topográfica do
+Porto, 1892 [@ferreira:1892carta, 292]. Arquivo Histórico
+Municipal
+](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Carta_topográfica_da_cidade_do_Porto_1892.pdf/page292-1024px-Carta_topográfica_da_cidade_do_Porto_1892.pdf.jpg)
 
 * * * * * * * * *
 
-![Traçado urbano da Vila de Mestre d'Armas,
-Goiás, antes e depois da reformulação executada c. 1891]()
+![Edward Gotto. Plan of the city of Rio de Janeiro, 1871
+[@gotto:1871plan, pr. 9]. Biblioteca Nacional (Brasil)
+](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Gotto_Plan_of_Rio_de_Janeiro_1871_Cart326448.pdf/page11-1024px-Gotto_Plan_of_Rio_de_Janeiro_1871_Cart326448.pdf.jpg)
 
-* * * * * * * * *
-
-![Freguesia de Santana, São Paulo, anterior a 1897]()
+<!--
+   -* * * * * * * * *
+   -
+   -![Traçado urbano da Vila de Mestre d'Armas,
+   -Goiás, antes e depois da reformulação executada c. 1891]()
+   -
+   -* * * * * * * * *
+   -
+   -![Freguesia de Santana, São Paulo, anterior a 1897]()
+   -->
 
 
 Obrigado pela atenção
