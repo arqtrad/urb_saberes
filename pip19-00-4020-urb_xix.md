@@ -234,7 +234,7 @@ existentes --- sem intenção "desbravadora".
 
 * * * * * * * * *
 
-![Traçado urbanístico de João Isidoro da Silva França,
+![Traçado urbanístico de João Isidoro da Silva França,
 executado por José dos Santos e Silva para Teresina, 1855.
 Secretaria Municipal de Planejamento, 2014
 ](http://semplan.35.193.186.134.xip.io/wp-content/uploads/sites/39/2014/09/Figura-1-e1409919376162.jpg)
@@ -410,3 +410,4 @@ Portugal.
 
 Fontes e referências bibliográficas
 -----------------------------------
+
