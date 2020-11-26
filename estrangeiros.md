@@ -2,7 +2,7 @@
 title: 'Profissionais estrangeiros na transição do Antigo Regime para as monarquias constitucionais'
 subtitle: 'Varnhagen, Eschwege, Pézerat'
 author: 'Pedro P. Palazzo'
-date: 'Projeto de investigação associado ao projeto TechNetEmpire--CHAM--FCSH--UNL'
+date: 'Projeto de investigação associado ao grupo « As Artes e a Expansão Portuguesa », CHAM--FCSH--UNL'
 lang: pt
 ---
 
@@ -59,9 +59,6 @@ amplo de integração da trajetória profissional dessas personagens será
 dedicado à elaboração de suas respetivas fichas bibliográficas na base
 de dados do projeto TechNetEmpire.
 
-A cronologia de execução deste projeto abarca o ano letivo de
-2020--2021.
-
 <!--
    -# Problemática e objetivos #
    -
@@ -82,3 +79,36 @@ A cronologia de execução deste projeto abarca o ano letivo de
    -## Bibliografia crítica ##
    -
    -->
+
+# Recursos necessários #
+
+Esta investigação se apoia na leitura crítica de fontes documentais em
+geral conhecidas, e na confrontação da bibliografia existente. Destarte,
+o trabalho de compilação de material bibliográfico deve usar as
+bibliotecas da \textsc{\MakeLowercase{FCSH/UNL}} e Nacional, em Lisboa.
+Os acervos documentais mais importantes para esta investigação seriam os
+do Arquivo Nacional da Torre do Tombo, Arquivo histórico da Marinha,
+Arquivo da Câmara municipal de Lisboa e Arquivo Histórico Ultramarino.
+
+# Cronologia #
+
+A cronologia de execução deste projeto abarca o ano letivo de
+2020--2021, conforme a tabela abaixo.
+
+------------------------------------------------------------------------------------------
+Atividade                    Dez.   Jan.   Fev.   Mar.   Abr.   Maio   Jun.   Jul.   Ago.  
+--------------------------- ------ ------ ------ ------ ------ ------ ------ ------ ------ 
+Leitura da bibliografia        X      X      X      X                                      
+
+Consulta a arquivos                   X      X      X      X      X                        
+
+Produção de fichas eViterbo                  X      X      X      X      X                 
+
+Alinhamento com as                           X      X      X      X      X                 
+investigadoras responsáveis
+
+Produção de artigos                                 X      X      X      X      X      X   
+------------------------------------------------------------------------------------------
+
+Table: Cronologia do projeto de investigação
+
