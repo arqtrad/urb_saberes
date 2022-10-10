@@ -1,7 +1,9 @@
-fail-if-warnings       : True
-filters:
-- pandoc-internalrefs
-- pandoc-citeproc
+data-dir               : "_lib"
 default-image-extension: '.jpg'
-file-scope             : True
+fail-if-warnings       : false
+file-scope             : true
+filters:
+  - pandoc-crossref
+  - citeproc
 resource-path          : '.:fig'
+self-contained         : true
